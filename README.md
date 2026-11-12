@@ -14,7 +14,7 @@ A lightweight, Swift 6 concurrency-safe logging framework for Apple platforms (i
 2. Go to **File → Add Package Dependencies…**
 3. Enter the repository URL:
    ```
-   https://github.com/<your-username>/loggerkit.git
+   https://github.com/vb13/loggerkit.git
    ```
 4. Select **Up to Next Major Version** from `1.0.0` and add **LoggerKit** to your target.
 
